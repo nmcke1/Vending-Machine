@@ -1,0 +1,10 @@
+Item: Diet Coke Quantity:. Location:. Transaction Type:. Date: Sat Apr 09 17:08:57 BST 2022
+Item: Diet Coke Quantity:. Location:. Transaction Type:. Date: Sat Apr 09 17:48:28 BST 2022
+Item: Diet Coke Product Type drink Location. Date: Sat Apr 09 20:07:50 BST 2022
+Item: Diet Coke Product Type drink Location. Date: Sat Apr 09 20:08:03 BST 2022
+Item: Fanta Product Type drink Location. Date: Sat Apr 09 20:46:15 BST 2022
+Item: Fanta Product Type drink Location. Date: Sat Apr 09 20:49:48 BST 2022
+Item: Dairy Milk Product Type choc Location. Date: Sat Apr 09 20:50:06 BST 2022
+Item: Monster Munch Product Type crisps Location. Date: Sat Apr 09 20:50:20 BST 2022
+Item: Diet Coke Product Type drink Location. Date: Sun Apr 10 04:39:04 BST 2022
+Item: Diet Coke Product Type drink Location: Queen's University Belfast(54.584,-5.933) Date: Sun Apr 10 04:43:25 BST 2022

@@ -1,0 +1,6 @@
+Item: Coke is low on stock. Stock Remaining: 10. Date: Tue Mar 15 15:28:31 GMT 2022
+Item: Coke is low on stock. Stock Remaining: 10. Date: Tue Mar 15 15:28:40 GMT 2022
+Item: Diet Coke is low on stock. Stock Remaining: 1. Date: Sat Apr 09 15:00:33 BST 2022
+Item: Diet Coke is low on stock. Stock Remaining: 5. Date: Sat Apr 09 20:08:03 BST 2022
+Item: Diet Coke is low on stock. Stock Remaining: 4. Date: Sun Apr 10 04:39:04 BST 2022
+Item: Diet Coke is low on stock. Stock Remaining: 3. Date: Sun Apr 10 04:43:25 BST 2022
